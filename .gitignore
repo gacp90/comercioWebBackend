@@ -5,6 +5,9 @@
 
 env
 
+logs.json
+./logs.json
+
 ./.env
 
 /node_modules
